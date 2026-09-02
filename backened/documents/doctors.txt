@@ -1,0 +1,11 @@
+Dr. Rahul Sharma is a Cardiologist at City Care Hospital.
+Dr. Rahul Sharma has 12 years of experience.
+He is available from Monday to Friday.
+
+Dr. Priya Singh is a Neurologist at City Care Hospital.
+Dr. Priya Singh has 8 years of experience.
+She is available from Monday to Saturday.
+
+Dr. Amit Verma is an Orthopedic specialist at City Care Hospital.
+Dr. Amit Verma has 10 years of experience.
+He is available from Monday to Friday.
