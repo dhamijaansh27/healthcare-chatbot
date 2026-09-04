@@ -143,3 +143,35 @@ body {
 .bot-message strong {
     font-weight: 600;
 }
+
+.speak-button {
+    border: none;
+    background: transparent;
+    cursor: pointer;
+    font-size: 18px;
+    margin-top: 5px;
+}
+
+.speak-button:hover {
+    transform: scale(1.1);
+}
+
+.mic-button {
+    border: none;
+    background: transparent;
+    cursor: pointer;
+    padding: 8px;
+}
+
+.mic-button.listening {
+    animation: micPulse 0.8s infinite alternate;
+}
+
+@keyframes micPulse {
+    from {
+        transform: scale(1);
+    }
+    to {
+        transform: scale(1.2);
+    }
+}
